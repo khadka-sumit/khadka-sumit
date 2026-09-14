@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>Sumit Khadka</strong> &bull; Kathmandu, Nepal 🇳🇵<br/>
-  <em>Final Year Computing Student @ Softwarica College of IT &amp; E-Commerce</em>
+  <em>Final Year Computing Student @ Ithari International Collage &amp; IT</em>
 </p>
 
 <p align="center">
